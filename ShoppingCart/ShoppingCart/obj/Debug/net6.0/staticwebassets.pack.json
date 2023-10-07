@@ -317,6 +317,46 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\1.jpg"
+    },
+    {
+      "Id": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\2.jpg"
+    },
+    {
+      "Id": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\223840ca-b21f-492c-ad91-41632dc5f703_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\223840ca-b21f-492c-ad91-41632dc5f703_1.jpg"
+    },
+    {
+      "Id": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\309a25c1-5539-49c7-a25f-966407067f4f_81X8UMFt+RL.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\309a25c1-5539-49c7-a25f-966407067f4f_81X8UMFt+RL.jpg"
+    },
+    {
+      "Id": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\34d99228-4534-47d7-9ce2-2dccf3e69347_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\34d99228-4534-47d7-9ce2-2dccf3e69347_1.jpg"
+    },
+    {
+      "Id": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\52913e6b-aaa0-4a74-80eb-84cff544cfd1_81X8UMFt+RL.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\52913e6b-aaa0-4a74-80eb-84cff544cfd1_81X8UMFt+RL.jpg"
+    },
+    {
+      "Id": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\5e097daa-0095-4775-8bc2-7cd13526460b_81X8UMFt+RL.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\5e097daa-0095-4775-8bc2-7cd13526460b_81X8UMFt+RL.jpg"
+    },
+    {
+      "Id": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\e2a0b66d-9205-4c5a-a10e-d02b48329ecb_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\e2a0b66d-9205-4c5a-a10e-d02b48329ecb_1.jpg"
+    },
+    {
+      "Id": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\e4bbf675-670c-4036-9f8e-428df34d0b6c_ml78s1dmi3531.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\e4bbf675-670c-4036-9f8e-428df34d0b6c_ml78s1dmi3531.jpg"
+    },
+    {
+      "Id": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\f4abd3f8-7a16-4f6b-95a4-adc42cb35526_2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\f4abd3f8-7a16-4f6b-95a4-adc42cb35526_2.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ShoppingCart.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
