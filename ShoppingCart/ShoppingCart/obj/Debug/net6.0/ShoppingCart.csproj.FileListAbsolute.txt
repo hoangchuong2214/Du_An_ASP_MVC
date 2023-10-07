@@ -134,3 +134,5 @@ D:\Du_An_ASP_MVC\ShoppingCart\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbun
 D:\Du_An_ASP_MVC\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
 D:\Du_An_ASP_MVC\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
 D:\Du_An_ASP_MVC\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+D:\Du_An_ASP_MVC\ShoppingCart\ShoppingCart\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Du_An_ASP_MVC\ShoppingCart\ShoppingCart\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css

@@ -12,10 +12,6 @@ namespace ShoppingCart.Controllers
         {
             _dataContext = context;
         }
-        public IActionResult Index()
-        {
-            return View();
-        }
         public async Task<IActionResult> Index(string Slug = "")
         {
             BrandModel brand = _dataContext.Brands.Where(c => c.Slug == Slug).FirstOrDefault();

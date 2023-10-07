@@ -23,5 +23,9 @@ namespace ShoppingCart.Models
         
         public BrandModel Brand { get; set; }
         public string Image{ get; set; }
+        [NotMapped]
+        [FileExtensions]
+        public IFormFile ImageUpload {  get; set; }
+
     }
 }
