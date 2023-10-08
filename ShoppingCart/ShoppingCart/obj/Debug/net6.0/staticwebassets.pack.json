@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\2.jpg"
     },
     {
+      "Id": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
+    },
+    {
       "Id": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },

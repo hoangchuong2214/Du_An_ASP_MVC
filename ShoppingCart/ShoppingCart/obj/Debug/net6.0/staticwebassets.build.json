@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tsQd3MxLp9G50sprLo1wkwkZA/ZVU3en79v5MVjce9o=",
+  "Hash": "PSJIPgfONCnP6ZoGYkFPOgW4Fl8JyP5dL69uMymyiOA=",
   "Source": "ShoppingCart",
   "BasePath": "_content/ShoppingCart",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\2.jpg"
+    },
+    {
+      "Identity": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\backend\\js\\site.js",
+      "SourceId": "ShoppingCart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\",
+      "BasePath": "_content/ShoppingCart",
+      "RelativePath": "backend/js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\backend\\js\\site.js"
     },
     {
       "Identity": "D:\\Du_An_ASP_MVC\\ShoppingCart\\ShoppingCart\\wwwroot\\css\\animate.css",
