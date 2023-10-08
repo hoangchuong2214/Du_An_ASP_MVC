@@ -13,7 +13,7 @@ namespace ShoppingCart.Models
         public string Name { get; set; }
         public string Slug { get; set; }
 
-        [Required, MinLength(4, ErrorMessage = "Yêu cầu nhập Mô Tả Sản Phẩm")]
+        [Required(ErrorMessage = "Yêu cầu nhập Mô Tả Sản Phẩm")]
         public string Description { get; set; }
 
         [Required(ErrorMessage = "Yêu cầu nhập Giá Sản Phẩm")]
